@@ -1,6 +1,10 @@
 body{
 font-type:Note Sans JP;
 }
+
+.sticky-top{
+    position: fixed;
+}
 .header-top{
     padding: 100px;
     color: red;
